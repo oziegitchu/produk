@@ -224,13 +224,25 @@ font-size:15px;box-shadow: var(--box-shadow-inset);
      
   }
 
+.katakataa {
+    width:auto;
+    height :auto;
+    font-family:Poppins;
+    font-size:18px;
+    color:Blue;
+    position:absolute;
+    top:-27px;
+    left:4.4%;
+    z-index: 2;
+  }
+
 
   .lokasi {
     width:auto;
     height :auto;
     font-family:Arial;
     font-weight: bold;
-    font-size:8px;
+    font-size:10px;
     color:white;
     position:absolute;
     top:-25px;
